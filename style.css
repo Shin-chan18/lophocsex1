@@ -1,0 +1,21 @@
+h2 {
+  padding: 1px;
+  color: darkred;
+}
+h1 {
+  padding: 1px;
+  color: blue;
+}
+body {
+  background-image: url(OIP.jpg);
+  color: brown 10px;
+}
+a {
+  font-size: xx-large;
+}
+.sex,
+iframe {
+  width: 800px;
+  height: 450px;
+  margin: 1px;
+}
